@@ -16,11 +16,11 @@ HTML, CSS, JavaScript (client-side only)
 
 Clone the repo and open `index.html` in a browser:
 
-\`\`\`
+```
 git clone https://github.com/tinatatur/employee-project-dashboard.git
 cd employee-project-dashboard
 open index.html
-\`\`\`
+```
 
 ## Purpose
 
